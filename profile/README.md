@@ -1,3 +1,5 @@
+![sky](https://user-images.githubusercontent.com/74303221/200962835-6e7fb572-ff65-4dba-8de9-83f0ea0e995c.png)
+
 # Skyward-Brawlhalla
 In this organisation you can find all my brawlhalla related projects. Here's a short explanation per repository.
 
