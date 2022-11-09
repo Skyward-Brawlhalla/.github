@@ -9,3 +9,5 @@ Discord bot that let's you link Discord accounts to Brawlhalla accounts unlockin
 Discord bot that sends memes
 ## [Worldhalla](https://github.com/Skyward-Brawlhalla/Worldhalla)
 Python application that slowly collects all clans in the world their name and id.
+## Why is this organisation called Skyward-Brawlhalla?
+The first bots I made were specifically aimed at the clan Skyward. Later on I started expanding the bots to other servers.
