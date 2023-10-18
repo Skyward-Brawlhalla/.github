@@ -11,7 +11,5 @@ Discord bot that collects data mainly for the discord bot [Ranknir](https://gith
 Discord bot that let's you link Discord accounts to Brawlhalla accounts unlocking interesting features.
 ## [MoneySquadronVirus](https://github.com/Skyward-Brawlhalla/MoneySquadronVirus)
 Discord bot that sends memes
-## [Worldhalla](https://github.com/Skyward-Brawlhalla/Worldhalla)
-Python application that slowly collects all clans in the world their name and id.
 ## Why is this organisation called Skyward-Brawlhalla?
 The first bots I made were specifically aimed at the clan Skyward. Later on I started expanding the bots to other servers. The name skyward-brawlhalla isn't too relevant anymore but it has some nostalgia attached to it. Maybe if I find a better name for this I'll rename it.
