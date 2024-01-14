@@ -3,8 +3,6 @@
 # Skyward-Brawlhalla
 In this organisation you can find all my brawlhalla related projects. Here's a short explanation per repository.
 
-## [Ranknir](https://github.com/Skyward-Brawlhalla/Ranknir)
-Discord bot that sends elo lists with all clan members for 1v1 and/or 2v2.
 ## [Dadabase](https://github.com/Skyward-Brawlhalla/Dadabase)
 Discord bot that collects data mainly for the discord bot [Ranknir](https://github.com/Skyward-Brawlhalla/Ranknir). While Ranknir is stuck in an endless loop, Dadabase makes it possible to make changes to this endless loop without stopping it.
 ## [Queen-Spy](https://github.com/Skyward-Brawlhalla/Queen-Spy)
